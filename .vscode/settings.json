@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "filesystem": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "unordered_map": "cpp",
+        "initializer_list": "cpp",
+        "valarray": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
