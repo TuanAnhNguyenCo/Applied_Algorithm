@@ -1,2 +1,3 @@
-!.cpp
-!.text
+*
+!*.cpp
+!*.text
